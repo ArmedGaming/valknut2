@@ -1,0 +1,20 @@
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dependencies": {
+    "express": "^4.16.3",
+    "discord": "^0.8.2",
+    "discord.js": "^11.3.2",
+    "discord-eco": "^0.0.10",
+    "ytdl-core": "^0.20.2",
+    "fs": "^0.0.2",
+    "roblox-js": "^4.0.2",
+    "opusscript": "^0.0.6"
+  }
+}
